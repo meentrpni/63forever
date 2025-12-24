@@ -25,9 +25,9 @@
     "code": "dream",
     "name": "ดรีม",
     "element": "Nature",
-    "hp": 75,
-    "def": 45,
-    "atk": 30,
+    "hp": 50,
+    "def": 40,
+    "atk": 65,
     "skills": [
       {
         "id": "poison_mist",
