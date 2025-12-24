@@ -142,5 +142,25 @@
         "power": 35
       }
     ]
+  },
+  {
+    "id": 8,
+    "code": "tyu",
+    "name": "ติว",
+    "element": "Water",
+    "hp": 115,
+    "def": 65,
+    "atk": 44,
+    "skills": [
+      {
+        "id": "aqua_dash",
+        "power": 55
+      },
+      {
+        "id": "blood_rush",
+        "power": 40,
+        "effect": "low_hp_bonus"
+      }
+    ]
   }
 ]

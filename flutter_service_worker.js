@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ca2b0e5b42162722f127dfd638e0985e",
-"assets/AssetManifest.bin.json": "98d01f11254fee80313da970b2e98f6c",
-"assets/AssetManifest.json": "82c2e368a291e864cf22a16732eb8a2e",
-"assets/assets/data/creatures.json": "50ad5e90893ae9c6e65e08bb9d1561d3",
+const RESOURCES = {"assets/AssetManifest.bin": "97217f0349e8469aeed7d3c32a169b73",
+"assets/AssetManifest.bin.json": "88e828952cde944c2e218582a1fefca0",
+"assets/AssetManifest.json": "f6b9ad7a99988143a99fbf4a00589626",
+"assets/assets/data/creatures.json": "f4e8b37b4763ece7f4658dc0999c1919",
 "assets/assets/data/element_chart.json": "81cb680449c36f9d7f97db794f848950",
 "assets/assets/img/bass.png": "2e9d7596abc4d1d25d75ef37e4741b9e",
 "assets/assets/img/bast.png": "2f40ea72af27eb16f05c91d6e7a342e1",
@@ -49,6 +49,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ca2b0e5b42162722f127dfd638e0985e
 "assets/assets/img/test.png": "2a2d120c8be74ae004d6b689aacd0141",
 "assets/assets/img/tiger.png": "06725e53214ae537ab10f98f1daf4fb7",
 "assets/assets/img/turtle.png": "660c669985975c2ae1ae13c8606cd9d6",
+"assets/assets/img/tyu.png": "f165b0210cc1efc5e8dda939c5718e58",
 "assets/assets/img/wolf.png": "ae23107d7dcf5d094cd6f56e1705dc2c",
 "assets/assets/sounds/die.wav": "f2db27af1dfa0c2ee81827e84e966c72",
 "assets/assets/sounds/hit.wav": "bcce95c69684258ff3d679c0c8c856e2",
@@ -71,7 +72,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ca2b0e5b42162722f127dfd638e0985e
 "canvaskit/skwasm.wasm": "1c93738510f202d9ff44d36a4760126b",
 "favicon.png": "7cf59147e5c0e23d697f56a84451e3f8",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "018f5fccf3488f9e8cb90e037cba4cf3",
+"flutter_bootstrap.js": "6302d45830741b6bf44639147d5053c7",
 "icons/Icon-192.png": "faba9be667264daf91b279ddbd453e36",
 "icons/Icon-512.png": "cd8b5148c4063db1dbffaf5107f98e2d",
 "icons/Icon-maskable-192.png": "04b551cb3b154c979b828cca1438c752",
