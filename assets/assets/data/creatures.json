@@ -225,5 +225,44 @@
         "effect": "bind"
       }
     ]
+  },
+  {
+    "id": 13,
+    "code": "eve",
+    "name": "อีฟ",
+    "element": "Wind",
+    "hp": 90,
+    "atk": 42,
+    "def": 45,
+    "skills": [
+      { "id": "wind_slash", "power": 45 },
+      { "id": "assassin_step", "power": 30, "effect": "first_strike" }
+    ]
+  },
+    {
+    "id": 14,
+    "code": "fluk",
+    "name": "ฟลุ็ค",
+    "element": "Metal",
+    "hp": 130,
+    "atk": 36,
+    "def": 140,
+    "skills": [
+      { "id": "iron_crush", "power": 45 },
+      { "id": "metal_guard", "power": 0, "effect": "def_up" }
+    ]
+  },
+      {
+    "id": 15,
+    "code": "manow",
+    "name": "มะนาว",
+    "element": "Water",
+    "hp": 140,
+    "def": 130,
+    "atk": 28,
+    "skills": [
+      { "id": "water_pulse", "power": 30, "effect": "slow" },
+      { "id": "shell_guard", "power": 0, "effect": "damage_reduce" }
+    ]
   }
 ]
