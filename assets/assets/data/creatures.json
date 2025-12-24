@@ -184,11 +184,13 @@
       {
         "id": "ยิงต่อเนื่อง",
         "power": 28,
-        "effect": "multi_hit"
+        "effect": "multi_hit",
+        "soundFile": "gun2.mp3"
       },
       {
         "id": "ลูกกระสุนไฟ",
-        "power": 38
+        "power": 38,
+        "soundFile": "gun1.mp3"
       }
     ]
   },
