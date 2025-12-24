@@ -162,5 +162,26 @@
         "effect": "low_hp_bonus"
       }
     ]
+  },
+  {
+    "id": 9,
+    "code": "koe",
+    "name": "เจ๊โกะ",
+    "element": "Fire",
+    "hp": 95,
+    "def": 70,
+    "atk": 37,
+    "skills": [
+      {
+        "id": "burn_sting",
+        "power": 35,
+        "effect": "burn"
+      },
+      {
+        "id": "venom_armor",
+        "power": 20,
+        "effect": "poison_counter"
+      }
+    ]
   }
 ]
