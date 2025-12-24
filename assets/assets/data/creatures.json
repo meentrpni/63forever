@@ -183,5 +183,47 @@
         "effect": "poison_counter"
       }
     ]
+  },
+  {
+    "id": 10,
+    "code": "opor",
+    "name": "ซ้อโอปอ",
+    "element": "Poison",
+    "hp": 150,
+    "def": 100,
+    "atk": 42,
+    "skills": [
+      {
+        "id": "toxic_bite",
+        "power": 45,
+        "effect": "poison"
+      },
+      {
+        "id": "death_roll",
+        "power": 20,
+        "effect": "multi_hit"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "mew",
+    "name": "มะมิว",
+    "element": "Water",
+    "hp": 110,
+    "atk": 32,
+    "def": 60,
+    "skills": [
+      {
+        "id": "ink_burst",
+        "power": 30,
+        "effect": "blind"
+      },
+      {
+        "id": "tentacle_grab",
+        "power": 25,
+        "effect": "bind"
+      }
+    ]
   }
 ]
