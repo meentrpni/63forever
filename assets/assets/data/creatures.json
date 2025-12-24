@@ -264,5 +264,18 @@
       { "id": "water_pulse", "power": 30, "effect": "slow" },
       { "id": "shell_guard", "power": 0, "effect": "damage_reduce" }
     ]
+  },
+      {
+    "id": 15,
+    "code": "oil",
+    "name": "ออย",
+    "element": "Earth",
+    "hp": 160,
+    "atk": 40,
+    "def": 120,
+    "skills": [
+      { "id": "brutal_charge", "power": 50 },
+      { "id": "earth_hide", "power": 0, "effect": "damage_reduce" }
+    ]
   }
 ]
