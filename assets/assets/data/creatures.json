@@ -152,6 +152,8 @@
     "realName": "ธีรภัทร นิลแย้ม",
     "description": "นักรบดาบโล่ที่ใช้พลังความมืดในการโจมตีและดูดเลือด",
     "soundFile": null,
+    "bornSound": "meen-born.mp3",
+    "dieSound": "meen-die.mp3",
     "skills": [
       {
         "id": "ดาบดูดเลือด",
