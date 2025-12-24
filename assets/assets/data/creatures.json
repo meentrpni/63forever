@@ -97,7 +97,7 @@
     "nickname": "กาย",
     "realName": "ไกวัล เฮียงฮะ",
     "description": "นักธนูที่รวดเร็วและใช้พลังลมในการโจมตี",
-    "soundFile": null,
+    "soundFile": "guy1.mp3",
     "skills": [
       {
         "id": "ลูกธนูลม",
@@ -365,6 +365,26 @@
   },
   {
     "id": 16,
+    "code": "eye",
+    "name": "อาย",
+    "element": "Light",
+    "hp": 95,
+    "atk": 44,
+    "def": 55,
+    "gender": "หญิง",
+    "occupation": "พยาบาล",
+    "birthDate": "2 เมษายน",
+    "nickname": "อาย",
+    "realName": "ภัณทิรา ฉัตรประวีณ",
+    "description": "พยาบาลสาวที่รวดเร็วและโจมตีก่อนศัตรู",
+    "soundFile": null,
+    "skills": [
+      { "id": "ฉีดยา", "power": 48 },
+      { "id": "ผ่าตัด", "power": 32, "effect": "first_strike" }
+    ]
+  },
+  {
+    "id": 17,
     "code": "oil",
     "name": "ออย",
     "element": "Earth",
