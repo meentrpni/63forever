@@ -4,9 +4,9 @@
     "code": "bass",
     "name": "บาส",
     "element": "Shadow",
-    "hp": 170,
-    "def": 90,
-    "atk": 38,
+    "hp": 100,
+    "def": 60,
+    "atk": 40,
     "gender": "ชาย",
     "occupation": "นักรบเงา",
     "birthDate": "25 สิงหาคม",
@@ -16,13 +16,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "shadow_coil",
-        "power": 30,
+        "id": "แอบซุ่ม",
+        "power": 35,
         "effect": "speed_down"
       },
       {
-        "id": "void_bite",
-        "power": 55,
+        "id": "เงามืดสังหาร",
+        "power": 50,
         "effect": "execute_bonus"
       }
     ]
@@ -32,9 +32,9 @@
     "code": "dream",
     "name": "ดรีม",
     "element": "Nature",
-    "hp": 50,
-    "def": 40,
-    "atk": 65,
+    "hp": 90,
+    "def": 55,
+    "atk": 45,
     "gender": "ชาย",
     "occupation": "นักเวท",
     "birthDate": "26 พฤศจิกายน",
@@ -44,13 +44,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "poison_mist",
-        "power": 20,
+        "id": "เวทมนตร์พิษ",
+        "power": 30,
         "effect": "poison_all"
       },
       {
-        "id": "evasion_leap",
-        "power": 15,
+        "id": "เทเลพอร์ต",
+        "power": 25,
         "effect": "evasion"
       }
     ]
@@ -60,9 +60,9 @@
     "code": "game",
     "name": "ป๋าเกม",
     "element": "Ice",
-    "hp": 90,
-    "def": 55,
-    "atk": 33,
+    "hp": 95,
+    "def": 60,
+    "atk": 38,
     "gender": "ชาย",
     "occupation": "นักดาบ",
     "birthDate": "17 มีนาคม",
@@ -72,13 +72,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "freeze_gaze",
-        "power": 35,
+        "id": "ดาบน้ำแข็ง",
+        "power": 40,
         "effect": "freeze"
       },
       {
-        "id": "cold_wind",
-        "power": 25,
+        "id": "ฟันน้ำแข็ง",
+        "power": 30,
         "effect": "atk_down"
       }
     ]
@@ -88,9 +88,9 @@
     "code": "guy",
     "name": "กาย",
     "element": "Wind",
-    "hp": 105,
+    "hp": 100,
     "def": 55,
-    "atk": 34,
+    "atk": 42,
     "gender": "ชาย",
     "occupation": "นักธนู",
     "birthDate": "17 เมษายน",
@@ -100,11 +100,11 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "hit_and_run",
-        "power": 40
+        "id": "ลูกธนูลม",
+        "power": 45
       },
       {
-        "id": "gale_sprint",
+        "id": "เร่งความเร็ว",
         "power": 0,
         "effect": "speed_up"
       }
@@ -115,9 +115,9 @@
     "code": "march",
     "name": "มาร์ช",
     "element": "Earth",
-    "hp": 170,
-    "def": 140,
-    "atk": 35,
+    "hp": 110,
+    "def": 70,
+    "atk": 38,
     "gender": "ชาย",
     "occupation": "แดนซ์เซอร์",
     "birthDate": "6 มีนาคม",
@@ -127,11 +127,11 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "iron_horn",
-        "power": 55
+        "id": "เต้นรำโจมตี",
+        "power": 50
       },
       {
-        "id": "fortress_skin",
+        "id": "ป้องกันด้วยการเต้น",
         "power": 0,
         "effect": "damage_reduce"
       }
@@ -142,9 +142,9 @@
     "code": "Meen",
     "name": "มีน",
     "element": "Dark",
-    "hp": 75,
-    "def": 45,
-    "atk": 35,
+    "hp": 95,
+    "def": 58,
+    "atk": 40,
     "gender": "ชาย",
     "occupation": "นักรบดาบโล่",
     "birthDate": "4 มีนาคม",
@@ -154,13 +154,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "life_drain",
-        "power": 30,
+        "id": "ดาบดูดเลือด",
+        "power": 35,
         "effect": "lifesteal"
       },
       {
-        "id": "night_dash",
-        "power": 40,
+        "id": "โล่ป้องกัน",
+        "power": 42,
         "effect": "evasion"
       }
     ]
@@ -170,9 +170,9 @@
     "code": "spite",
     "name": "เสี่ยไปร์ท",
     "element": "Fire",
-    "hp": 95,
-    "def": 50,
-    "atk": 41,
+    "hp": 100,
+    "def": 55,
+    "atk": 43,
     "gender": "ชาย",
     "occupation": "มือปืน",
     "birthDate": "1 มิถุนายน",
@@ -182,13 +182,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "fire_combo",
-        "power": 20,
+        "id": "ยิงต่อเนื่อง",
+        "power": 28,
         "effect": "multi_hit"
       },
       {
-        "id": "blazing_leap",
-        "power": 35
+        "id": "ลูกกระสุนไฟ",
+        "power": 38
       }
     ]
   },
@@ -197,8 +197,8 @@
     "code": "tyu",
     "name": "ติว",
     "element": "Water",
-    "hp": 115,
-    "def": 65,
+    "hp": 105,
+    "def": 60,
     "atk": 44,
     "gender": "ชาย",
     "occupation": "นักมวย",
@@ -209,11 +209,11 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "aqua_dash",
-        "power": 55
+        "id": "หมัดน้ำ",
+        "power": 50
       },
       {
-        "id": "blood_rush",
+        "id": "หมัดเดือด",
         "power": 40,
         "effect": "low_hp_bonus"
       }
@@ -225,8 +225,8 @@
     "name": "เจ๊โกะ",
     "element": "Fire",
     "hp": 95,
-    "def": 70,
-    "atk": 37,
+    "def": 62,
+    "atk": 39,
     "gender": "หญิง",
     "occupation": "แม่ค้า",
     "birthDate": "13 มีนาคม",
@@ -236,13 +236,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "burn_sting",
-        "power": 35,
+        "id": "ขายของร้อน",
+        "power": 38,
         "effect": "burn"
       },
       {
-        "id": "venom_armor",
-        "power": 20,
+        "id": "เกราะพิษ",
+        "power": 25,
         "effect": "poison_counter"
       }
     ]
@@ -252,9 +252,9 @@
     "code": "opor",
     "name": "ซ้อโอปอ",
     "element": "Poison",
-    "hp": 150,
-    "def": 100,
-    "atk": 42,
+    "hp": 105,
+    "def": 65,
+    "atk": 41,
     "gender": "ชาย",
     "occupation": "แม่มด",
     "birthDate": "18 ธันวาคม",
@@ -264,13 +264,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "toxic_bite",
-        "power": 45,
+        "id": "เวทมนตร์พิษ",
+        "power": 48,
         "effect": "poison"
       },
       {
-        "id": "death_roll",
-        "power": 20,
+        "id": "หมุนเวียนมรณะ",
+        "power": 22,
         "effect": "multi_hit"
       }
     ]
@@ -280,9 +280,9 @@
     "code": "mew",
     "name": "มะมิว",
     "element": "nature",
-    "hp": 110,
-    "atk": 32,
-    "def": 60,
+    "hp": 100,
+    "atk": 38,
+    "def": 58,
     "gender": "หญิง",
     "occupation": "นักแข่งรถ",
     "birthDate": "21 พฤษภาคม",
@@ -292,13 +292,13 @@
     "soundFile": null,
     "skills": [
       {
-        "id": "ink_burst",
-        "power": 30,
+        "id": "หมอกควัน",
+        "power": 35,
         "effect": "blind"
       },
       {
-        "id": "tentacle_grab",
-        "power": 25,
+        "id": "จับมัด",
+        "power": 30,
         "effect": "bind"
       }
     ]
@@ -308,9 +308,9 @@
     "code": "eve",
     "name": "อีฟ",
     "element": "Light",
-    "hp": 90,
-    "atk": 42,
-    "def": 45,
+    "hp": 95,
+    "atk": 44,
+    "def": 55,
     "gender": "หญิง",
     "occupation": "นักฆ่า",
     "birthDate": "4 ธันวาคม",
@@ -319,8 +319,8 @@
     "description": "นักฆ่าที่รวดเร็วและโจมตีก่อนศัตรู",
     "soundFile": null,
     "skills": [
-      { "id": "wind_slash", "power": 45 },
-      { "id": "assassin_step", "power": 30, "effect": "first_strike" }
+      { "id": "มีดสังหาร", "power": 48 },
+      { "id": "โจมตีก่อน", "power": 32, "effect": "first_strike" }
     ]
   },
   {
@@ -328,10 +328,10 @@
     "code": "fluk",
     "name": "ฟลุ็ค",
     "element": "Metal",
-    "hp": 130,
-    "atk": 36,
-    "def": 140,
-    "gender": "ชาย",
+    "hp": 110,
+    "atk": 38,
+    "def": 68,
+    "gender": "หญิง",
     "occupation": "เซฟตี้",
     "birthDate": "28 มกราคม",
     "nickname": "ฟลุ็ค",
@@ -339,8 +339,8 @@
     "description": "เซฟตี้ที่แข็งแกร่งและมีพลังป้องกันสูง",
     "soundFile": null,
     "skills": [
-      { "id": "iron_crush", "power": 45 },
-      { "id": "metal_guard", "power": 0, "effect": "def_up" }
+      { "id": "กระบองเหล็ก", "power": 46 },
+      { "id": "ป้องกันโลหะ", "power": 0, "effect": "def_up" }
     ]
   },
   {
@@ -348,10 +348,10 @@
     "code": "manow",
     "name": "มะนาว",
     "element": "Water",
-    "hp": 140,
-    "def": 130,
-    "atk": 28,
-    "gender": "ชาย",
+    "hp": 108,
+    "def": 66,
+    "atk": 36,
+    "gender": "หญิง",
     "occupation": "นักว่ายน้ำ",
     "birthDate": "-",
     "nickname": "มะนาว",
@@ -359,8 +359,8 @@
     "description": "นักว่ายน้ำที่แข็งแกร่งและมีพลังป้องกันสูง",
     "soundFile": null,
     "skills": [
-      { "id": "water_pulse", "power": 30, "effect": "slow" },
-      { "id": "shell_guard", "power": 0, "effect": "damage_reduce" }
+      { "id": "คลื่นน้ำ", "power": 33, "effect": "slow" },
+      { "id": "ป้องกันเปลือก", "power": 0, "effect": "damage_reduce" }
     ]
   },
   {
@@ -368,9 +368,9 @@
     "code": "oil",
     "name": "ออย",
     "element": "Earth",
-    "hp": 160,
+    "hp": 112,
     "atk": 40,
-    "def": 120,
+    "def": 64,
     "gender": "ชาย",
     "occupation": "ช่างตีเหล็ก",
     "birthDate": "15 กุมภาพันธ์",
@@ -379,8 +379,8 @@
     "description": "ช่างตีเหล็กที่แข็งแกร่งและมีพลังโจมตีสูง",
     "soundFile": null,
     "skills": [
-      { "id": "brutal_charge", "power": 50 },
-      { "id": "earth_hide", "power": 0, "effect": "damage_reduce" }
+      { "id": "ค้อนตีเหล็ก", "power": 52 },
+      { "id": "ซ่อนดิน", "power": 0, "effect": "damage_reduce" }
     ]
   }
 ]
