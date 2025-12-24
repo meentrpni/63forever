@@ -7,6 +7,13 @@
     "hp": 170,
     "def": 90,
     "atk": 38,
+    "gender": "ชาย",
+    "occupation": "นักรบเงา",
+    "birthDate": "25 สิงหาคม",
+    "nickname": "บาส",
+    "realName": "ธนกร วงโชคชัย",
+    "description": "นักรบเงาที่เชี่ยวชาญในการโจมตีแบบเงียบๆ และการหลบหลีก",
+    "soundFile": null,
     "skills": [
       {
         "id": "shadow_coil",
@@ -28,6 +35,13 @@
     "hp": 50,
     "def": 40,
     "atk": 65,
+    "gender": "ชาย",
+    "occupation": "นักเวท",
+    "birthDate": "26 พฤศจิกายน",
+    "nickname": "ดรีม",
+    "realName": "ดิศรณ์ เงินเรื่องโรจน์",
+    "description": "นักเวทที่ใช้พลังธรรมชาติในการโจมตีและหลบหลีก",
+    "soundFile": null,
     "skills": [
       {
         "id": "poison_mist",
@@ -49,6 +63,13 @@
     "hp": 90,
     "def": 55,
     "atk": 33,
+    "gender": "ชาย",
+    "occupation": "นักดาบ",
+    "birthDate": "17 มีนาคม",
+    "nickname": "ป๋าเกม",
+    "realName": "ชัชชัย ขุนตาล",
+    "description": "นักดาบที่เชี่ยวชาญในการใช้พลังน้ำแข็งในการต่อสู้",
+    "soundFile": null,
     "skills": [
       {
         "id": "freeze_gaze",
@@ -70,6 +91,13 @@
     "hp": 105,
     "def": 55,
     "atk": 34,
+    "gender": "ชาย",
+    "occupation": "นักธนู",
+    "birthDate": "17 เมษายน",
+    "nickname": "กาย",
+    "realName": "ไกวัล เฮียงฮะ",
+    "description": "นักธนูที่รวดเร็วและใช้พลังลมในการโจมตี",
+    "soundFile": null,
     "skills": [
       {
         "id": "hit_and_run",
@@ -90,6 +118,13 @@
     "hp": 170,
     "def": 140,
     "atk": 35,
+    "gender": "ชาย",
+    "occupation": "แดนซ์เซอร์",
+    "birthDate": "6 มีนาคม",
+    "nickname": "มาร์ช",
+    "realName": "พิเชษ สุขประเสริฐ",
+    "description": "แดนซ์เซอร์ที่แข็งแกร่งและมีพลังป้องกันสูง",
+    "soundFile": null,
     "skills": [
       {
         "id": "iron_horn",
@@ -110,6 +145,13 @@
     "hp": 75,
     "def": 45,
     "atk": 35,
+    "gender": "ชาย",
+    "occupation": "นักรบดาบโล่",
+    "birthDate": "4 มีนาคม",
+    "nickname": "มีน",
+    "realName": "ธีรภัทร นิลแย้ม",
+    "description": "นักรบดาบโล่ที่ใช้พลังความมืดในการโจมตีและดูดเลือด",
+    "soundFile": null,
     "skills": [
       {
         "id": "life_drain",
@@ -131,6 +173,13 @@
     "hp": 95,
     "def": 50,
     "atk": 41,
+    "gender": "ชาย",
+    "occupation": "มือปืน",
+    "birthDate": "1 มิถุนายน",
+    "nickname": "เสี่ยไปร์ท",
+    "realName": "วีรพงษ์ มิตรอุดม",
+    "description": "มือปืนที่ใช้พลังไฟในการโจมตีแบบต่อเนื่อง",
+    "soundFile": null,
     "skills": [
       {
         "id": "fire_combo",
@@ -151,6 +200,13 @@
     "hp": 115,
     "def": 65,
     "atk": 44,
+    "gender": "ชาย",
+    "occupation": "นักมวย",
+    "birthDate": "22 กุมภาพันธ์",
+    "nickname": "ติว",
+    "realName": "กฤษฎา จุ้ยม่วงศรี",
+    "description": "นักมวยที่ใช้พลังน้ำในการโจมตี",
+    "soundFile": null,
     "skills": [
       {
         "id": "aqua_dash",
@@ -171,6 +227,13 @@
     "hp": 95,
     "def": 70,
     "atk": 37,
+    "gender": "หญิง",
+    "occupation": "แม่ค้า",
+    "birthDate": "13 มีนาคม",
+    "nickname": "เจ๊โกะ",
+    "realName": "สุทธิมพร มาลัยนาค",
+    "description": "แม่ค้าที่ใช้พลังไฟและพิษในการโจมตี",
+    "soundFile": null,
     "skills": [
       {
         "id": "burn_sting",
@@ -192,6 +255,13 @@
     "hp": 150,
     "def": 100,
     "atk": 42,
+    "gender": "ชาย",
+    "occupation": "แม่มด",
+    "birthDate": "18 ธันวาคม",
+    "nickname": "ซ้อโอปอ",
+    "realName": "นพักตร์สรณ์ อ่อนปานนิล",
+    "description": "แม่มดที่ใช้พลังพิษในการโจมตีแบบหลายครั้ง",
+    "soundFile": null,
     "skills": [
       {
         "id": "toxic_bite",
@@ -209,10 +279,17 @@
     "id": 12,
     "code": "mew",
     "name": "มะมิว",
-    "element": "Water",
+    "element": "nature",
     "hp": 110,
     "atk": 32,
     "def": 60,
+    "gender": "หญิง",
+    "occupation": "นักแข่งรถ",
+    "birthDate": "21 พฤษภาคม",
+    "nickname": "มะมิว",
+    "realName": "ธัญพร สุวรรณธรรมา",
+    "description": "นักแข่งรถที่ใช้พลังน้ำในการโจมตีและทำให้ศัตรูตาบอด",
+    "soundFile": null,
     "skills": [
       {
         "id": "ink_burst",
@@ -230,16 +307,23 @@
     "id": 13,
     "code": "eve",
     "name": "อีฟ",
-    "element": "Wind",
+    "element": "Light",
     "hp": 90,
     "atk": 42,
     "def": 45,
+    "gender": "หญิง",
+    "occupation": "นักฆ่า",
+    "birthDate": "4 ธันวาคม",
+    "nickname": "อีฟ",
+    "realName": "ปาริชาติ พืชสิงห์",
+    "description": "นักฆ่าที่รวดเร็วและโจมตีก่อนศัตรู",
+    "soundFile": null,
     "skills": [
       { "id": "wind_slash", "power": 45 },
       { "id": "assassin_step", "power": 30, "effect": "first_strike" }
     ]
   },
-    {
+  {
     "id": 14,
     "code": "fluk",
     "name": "ฟลุ็ค",
@@ -247,12 +331,19 @@
     "hp": 130,
     "atk": 36,
     "def": 140,
+    "gender": "ชาย",
+    "occupation": "เซฟตี้",
+    "birthDate": "28 มกราคม",
+    "nickname": "ฟลุ็ค",
+    "realName": "สุวนันต์ อ่างแก้ว",
+    "description": "เซฟตี้ที่แข็งแกร่งและมีพลังป้องกันสูง",
+    "soundFile": null,
     "skills": [
       { "id": "iron_crush", "power": 45 },
       { "id": "metal_guard", "power": 0, "effect": "def_up" }
     ]
   },
-      {
+  {
     "id": 15,
     "code": "manow",
     "name": "มะนาว",
@@ -260,19 +351,33 @@
     "hp": 140,
     "def": 130,
     "atk": 28,
+    "gender": "ชาย",
+    "occupation": "นักว่ายน้ำ",
+    "birthDate": "-",
+    "nickname": "มะนาว",
+    "realName": "ทานตะวัน วรรณรัตน์",
+    "description": "นักว่ายน้ำที่แข็งแกร่งและมีพลังป้องกันสูง",
+    "soundFile": null,
     "skills": [
       { "id": "water_pulse", "power": 30, "effect": "slow" },
       { "id": "shell_guard", "power": 0, "effect": "damage_reduce" }
     ]
   },
-      {
-    "id": 15,
+  {
+    "id": 16,
     "code": "oil",
     "name": "ออย",
     "element": "Earth",
     "hp": 160,
     "atk": 40,
     "def": 120,
+    "gender": "ชาย",
+    "occupation": "ช่างตีเหล็ก",
+    "birthDate": "15 กุมภาพันธ์",
+    "nickname": "ออย",
+    "realName": "สิวะภาคย์ สการันต์",
+    "description": "ช่างตีเหล็กที่แข็งแกร่งและมีพลังโจมตีสูง",
+    "soundFile": null,
     "skills": [
       { "id": "brutal_charge", "power": 50 },
       { "id": "earth_hide", "power": 0, "effect": "damage_reduce" }
