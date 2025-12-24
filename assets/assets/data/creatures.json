@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "code": "bass",
+    "name": "บาส",
+    "element": "Shadow",
+    "hp": 170,
+    "def": 90,
+    "atk": 38,
+    "skills": [
+      {
+        "id": "shadow_coil",
+        "power": 30,
+        "effect": "speed_down"
+      },
+      {
+        "id": "void_bite",
+        "power": 55,
+        "effect": "execute_bonus"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "dream",
+    "name": "ดรีม",
+    "element": "Nature",
+    "hp": 75,
+    "def": 45,
+    "atk": 30,
+    "skills": [
+      {
+        "id": "poison_mist",
+        "power": 20,
+        "effect": "poison_all"
+      },
+      {
+        "id": "evasion_leap",
+        "power": 15,
+        "effect": "evasion"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "game",
+    "name": "ป๋าเกม",
+    "element": "Ice",
+    "hp": 90,
+    "def": 55,
+    "atk": 33,
+    "skills": [
+      {
+        "id": "freeze_gaze",
+        "power": 35,
+        "effect": "freeze"
+      },
+      {
+        "id": "cold_wind",
+        "power": 25,
+        "effect": "atk_down"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "guy",
+    "name": "กาย",
+    "element": "Wind",
+    "hp": 105,
+    "def": 55,
+    "atk": 34,
+    "skills": [
+      {
+        "id": "hit_and_run",
+        "power": 40
+      },
+      {
+        "id": "gale_sprint",
+        "power": 0,
+        "effect": "speed_up"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "march",
+    "name": "มาร์ช",
+    "element": "Earth",
+    "hp": 170,
+    "def": 140,
+    "atk": 35,
+    "skills": [
+      {
+        "id": "iron_horn",
+        "power": 55
+      },
+      {
+        "id": "fortress_skin",
+        "power": 0,
+        "effect": "damage_reduce"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "Meen",
+    "name": "มีน",
+    "element": "Dark",
+    "hp": 75,
+    "def": 45,
+    "atk": 35,
+    "skills": [
+      {
+        "id": "life_drain",
+        "power": 30,
+        "effect": "lifesteal"
+      },
+      {
+        "id": "night_dash",
+        "power": 40,
+        "effect": "evasion"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "spite",
+    "name": "เสี่ยไปร์ท",
+    "element": "Fire",
+    "hp": 95,
+    "def": 50,
+    "atk": 41,
+    "skills": [
+      {
+        "id": "fire_combo",
+        "power": 20,
+        "effect": "multi_hit"
+      },
+      {
+        "id": "blazing_leap",
+        "power": 35
+      }
+    ]
+  }
+]
