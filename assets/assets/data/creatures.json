@@ -32,9 +32,9 @@
     "code": "dream",
     "name": "ดรีม",
     "element": "Nature",
-    "hp": 90,
+    "hp": 150,
     "def": 55,
-    "atk": 45,
+    "atk": 75,
     "gender": "ชาย",
     "occupation": "นักเวท",
     "birthDate": "26 พฤศจิกายน",
@@ -45,12 +45,12 @@
     "skills": [
       {
         "id": "เวทมนตร์พิษ",
-        "power": 30,
+        "power": 50,
         "effect": "poison_all"
       },
       {
         "id": "เทเลพอร์ต",
-        "power": 25,
+        "power": 65,
         "effect": "evasion"
       }
     ]
@@ -259,7 +259,7 @@
     "hp": 105,
     "def": 65,
     "atk": 41,
-    "gender": "ชาย",
+    "gender": "หญิง",
     "occupation": "แม่มด",
     "birthDate": "18 ธันวาคม",
     "nickname": "ซ้อโอปอ",
