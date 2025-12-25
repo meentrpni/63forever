@@ -101,12 +101,14 @@
     "skills": [
       {
         "id": "ลูกธนูลม",
-        "power": 45
+        "power": 45,
+        "soundFile": "guypiw.m4a"
       },
       {
         "id": "เร่งความเร็ว",
         "power": 0,
-        "effect": "speed_up"
+        "effect": "speed_up",
+        "soundFile": "guypiw.m4a"
       }
     ]
   },
